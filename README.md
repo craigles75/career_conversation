@@ -48,6 +48,7 @@ PUSHOVER_USER=your_pushover_user_id_here
 1. Ensure your personal information is set up:
    - Place your LinkedIn profile PDF in `me/linkedin.pdf`
    - Update your personal summary in `me/summary.txt`
+   - Modify the name variable to be your name
 
 2. Run the application:
 ```bash
@@ -56,7 +57,7 @@ python main.py
 
 3. Open your browser and navigate to the local URL displayed in the terminal (typically `http://localhost:7860`)
 
-4. Start chatting! The bot will respond as Craig Penfold, answering questions about your career and background.
+4. Start chatting! The bot will respond as you, answering questions about your career and background.
 
 ## Project Structure
 

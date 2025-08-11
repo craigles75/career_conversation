@@ -1,3 +1,9 @@
+---
+title: career_conversation
+app_file: main.py
+sdk: gradio
+sdk_version: 5.42.0
+---
 # Career Conversation Chatbot
 
 A personalized AI chatbot that represents Craig Penfold and can answer questions about his career, background, skills, and experience. Built with OpenAI's GPT-4 and Gradio for a web-based chat interface.
